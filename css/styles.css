@@ -1,0 +1,155 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  font-size: 1.5em;
+}
+
+h1 {
+  margin: 0 auto;
+  padding-top: 4%;
+  font-size: 5.625rem;
+  font-family: "Sacramento", cursive;
+  color: #66bfbf;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  color: #66bfbf;
+  margin: 5% auto 3%;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #11999e;
+  margin: 2.5% auto 5%;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-top-color: #e47312;
+  border-top-width: 5px;
+  width: 3%;
+  margin: 3% auto;
+}
+
+.top-container {
+  background-color: #beeef7;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.top-p {
+  color: #11999e;
+  margin: 0 auto 4.5%;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.montaña {
+  max-width: 75%;
+}
+
+.profile-img {
+  width: 15%;
+}
+
+.profile-hello {
+  margin: 2.5% auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 4.5% auto;
+}
+
+.skills1 {
+  width: 40%;
+}
+
+#bootstrap {
+  width: 15%;
+}
+
+.skills2 {
+  width: 20%;
+  padding: 0 1% 0 1%;
+}
+
+#ele {
+  width: 15%;
+}
+
+#docker {
+  width: 12%;
+}
+
+.inTouch {
+  margin: 3% auto;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  margin: 0;
+}
+
+.bottom-container img {
+  width: 5%;
+  padding: 5px;
+}
+
+.button-contact {
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  color: #ffffff;
+  font-family: Open Sans;
+  font-size: 1.2em;
+  padding: 12px;
+  background-color: #66bfbf;
+  border: solid #66bfbf 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  margin: 3% auto;
+}
+
+.button-contact:hover {
+  background: #11999e;
+  border: solid #11999e 1px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+#linked {
+  width: 4%;
+  position: relative;
+  bottom: 8px;
+  right: 5px;
+}
+
+#twitter {
+  width: 5%;
+}
+
+#facebook {
+  width: 5.2%;
+}
+
+#email {
+  width: 3.75%;
+  position: relative;
+  bottom: 11px;
+  left: 8px;
+}
+
+.footer-p {
+  margin: 1% auto 0;
+  color: white;
+}
